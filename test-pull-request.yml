@@ -1,2 +1,4 @@
 ---
   - name: test pull request
+    vars:
+      pullr: test
