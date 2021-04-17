@@ -1,3 +1,5 @@
 ---
   - name: For Test
     host: test
+    vars:
+      test: 1
